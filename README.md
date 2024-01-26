@@ -8,10 +8,9 @@
   ![GitHub language count](https://img.shields.io/github/languages/count/mateusloubach/alura-imersao-frontend?style=flat-square&color=%23e4e3e3)
   ![GitHub Code Size](https://img.shields.io/github/languages/code-size/mateusloubach/alura-imersao-frontend?style=flat-square&color=%23e4e3e3)
 
-  A list of definitions in order to keep info organized
 </div>
 
-## Introdução Aula 01
+## Aula 01
 
 Nesta aula, vamos começar o nosso projeto da recriação da página inicial do Spotify por meio do HTML e do CSS, aprenda atalhos, recursos e as diferenças entre os códigos.
 Nesta aula, você vai:
@@ -27,7 +26,7 @@ Deseja ir além? Experimente este desafio:
 
  - Construa a aba “Sua biblioteca”.
 
-## Introdução Aula 02
+## Aula 02
 
 Nesta aula, vamos abordar o código do menu lateral e aprofundar-nos em CSS, explorando posicionamento, layouts e a técnica do Flexbox
 Nesta aula, você vai:
@@ -39,3 +38,7 @@ Nesta aula, você vai:
 Deseja ir além? Experimente este desafio:
 
  - Fazer a tag (brinque com o botão, faça o gradiente, etc). 
+
+ ## Aula 03
+
+ 
