@@ -54,3 +54,24 @@ Nesta aula, você vai:
 Deseja ir além? Experimente este desafio:
 
  - Faça os cards de “Boa tarde” e “Navegar por todas as seções”. 
+
+ ## Aula 04
+
+Nesta aula, iremos utilizar o CSS Grid no projeto, para os cards da página inicial, aprendendo as medias queries, além de introduzir o JavaScript com o conceito DOM e o método promises.
+Nesta aula, você vai:
+
+ - Criar os cards da página inicial;
+ - Aprender a usar o CSS Grid Layout;
+ - Utilizar media queries para responsividade;
+ - Instalar do Node.js;
+ - Introduzir o JavaScript no projeto;
+ - Utilizar o conceito DOM;
+ - Conhecer o método Promises do JavaScript.
+
+ 
+Deseja ir além? Experimente este desafio:
+
+ - Teste fazer mais cards se baseie na página do Spotify e aprenda muito mais;
+ - Crie um arquivo API JSON diferente e explore mais. 
+
+ 
