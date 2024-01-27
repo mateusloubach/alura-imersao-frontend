@@ -35,6 +35,7 @@ Nesta aula, você vai:
  - Aprender os fundamentos do CSS Flexbox;
  - Saber mais sobre posicionamentos no CSS.
 
+
 Deseja ir além? Experimente este desafio:
 
  - Fazer a tag (brinque com o botão, faça o gradiente, etc). 
